@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Kaju Engine
+- 🌱 I’m currently learning C++, OpenGL, O3DE
+
 <!--
 **RoastedKaju/RoastedKaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
